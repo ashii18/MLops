@@ -22,7 +22,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/ashii18/MLops
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -77,7 +77,7 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/ashii18/MLops.mlflow
 
 export MLFLOW_TRACKING_USERNAME=ashii18 
 
-export MLFLOW_TRACKING_PASSWORD=959dd5064b960e60a5952707b84ff038a9f7a2e10
+export MLFLOW_TRACKING_PASSWORD=959dd5064b960e60a5952707b84ff038a9f7a2e1
 
 ```
 
